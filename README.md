@@ -4,7 +4,7 @@ My first project while learning Data Analysis with SkilHarvest Academy
 
 ### Project Overview
 ---
-This Data Analysis aim to summarize the revenue generated in some particular region in relation to unit sold on each services in order to categorize the sales under certain conditions such as LOW, MEDIUM, HIGH. Through analyzing sales record received and having the perception of region with Top Market Revenue and Unit Sold.
+This Data Analysis aim to summarize the revenue generated in some particular region in relation to unit sold on each services in order to categorize the sales under certain conditions such as LOW, MEDIUM, HIGH. Through analyzing sales record received and having the perception of region with Top Market Revenue and Unit Sold in some states market and state store and vise visa.
 ### Data Sources 
 ---
 The primary source of data used is data provided by SkilHarvest Data Analyst Instructor. Mr Ayeni Temidayo.
@@ -32,3 +32,10 @@ The EDA involves in these Data Analysis are;
 - Bottom 5 stores by unit sold
 - Report of revenue by month
 - Basic Visualization
+### Data Analysis
+
+### Inference/Insight
+- TOTAL REVENUE WITHIN A REGION; This shows the total revenue of each region and successful compression of 30,800 data into six region. It obvious from the analysis that sales of services is tremendously increasing in North East follow by South West. Unlike North Central which have a low turnout in term of revenue output.
+- TOTAL REVENUE INLINE WITH BUSINESSES; More attention need to be focus at the rate which service plan are been demanded for. The percentage has been increasing over time with 71.02% in total revenue and sale of printer need no much attention with low total revenue of 8.29%.
+- AVERAGE OF UNIT SOLD BY LINE OF BUSINESS; This analysis shows the descending order of average unit sold in line of business over a period of 2 years. Where parts and service plan are on lead role.
+
