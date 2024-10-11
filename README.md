@@ -39,6 +39,9 @@ The EDA involves in these Data Analysis are;
   WHERE CONDITION = TRUE
   ```
 ### Inference/Insight
+
+
+
 - TOTAL REVENUE WITHIN A REGION; This shows the total revenue of each region and successful compression of 30,800 data into six region. It obvious from the analysis that sales of services is tremendously increasing in North East follow by South West. Unlike North Central which have a low turnout in term of revenue output.
 - TOTAL REVENUE INLINE WITH BUSINESSES; More attention need to be focus at the rate which service plan are been demanded for. The percentage has been increasing over time with 71.02% in total revenue and sale of printer need no much attention with low total revenue of 8.29%.
 - AVERAGE OF UNIT SOLD BY LINE OF BUSINESS; This analysis shows the descending order of average unit sold in line of business over a period of 2 years. Where parts and service plan are on lead role.
