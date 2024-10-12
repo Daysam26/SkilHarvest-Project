@@ -39,4 +39,7 @@ The EDA involves in these Data Analysis are;
   WHERE CONDITION = TRUE
   ```
 ### Inference/Insight
+
+![Average some revenue by 5top model](https://github.com/user-attachments/assets/b5d8833c-7bc3-4e31-8b28-217c15093d7f)
+
 ![Totai revenue by region](https://github.com/user-attachments/assets/2b95a7b5-3080-4526-889e-4b366c70f338)
