@@ -1,7 +1,13 @@
 # SkilHarvest-Project
 My first project while learning Data Analysis with SkilHarvest Academy
-
-
+## Outline
+## [Project Overview](#project-overview)
+## [Data Sources](#data-sources)
+## [Tools Used](#tools-used)
+## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Data Analysis](#data-analysis)
+## [Inference/Insight](#inference/insight)
 ### Project Overview
 ---
 This Data Analysis aim to summarize the revenue generated in some particular region in relation to unit sold on each services in order to categorize the sales under certain conditions such as LOW, MEDIUM, HIGH. Through analyzing sales record received and having the perception of region with Top Market Revenue and Unit Sold in some states market and state store and vise visa.
