@@ -40,4 +40,5 @@ The EDA involves in these Data Analysis are;
   ```
 ### Inference/Insight
 
+
 ![Totai revenue by region](https://github.com/user-attachments/assets/2b95a7b5-3080-4526-889e-4b366c70f338)
