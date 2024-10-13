@@ -18,7 +18,7 @@ This Data Analysis aim to summarize the revenue generated in some particular reg
 
 ### Data Sources 
 ---
-The primary source of data used is data provided by SkilHarvest Data Analyst Instructor. Mr Ayeni Temidayo.
+The primary source of data used is from SkilHarvest Sale Inventory.
 
 ### Tools Used
 ---
