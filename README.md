@@ -1,6 +1,8 @@
 # SkilHarvest-Project
+---
 My first project while learning Data Analysis with SkilHarvest Academy
 ## Outline
+---
 ## [Project Overview](#project-overview)
 ## [Data Sources](#data-sources)
 ## [Tools Used](#tools-used)
@@ -45,6 +47,9 @@ The EDA involves in these Data Analysis are;
   WHERE CONDITION = TRUE
   ```
 ### Inference/Insight
+
+![Sum of unit sold buy month](https://github.com/user-attachments/assets/9ed5474d-b25b-4661-a4a5-fc027338b67b)
+
 
 ![Average some revenue by 5top model](https://github.com/user-attachments/assets/b5d8833c-7bc3-4e31-8b28-217c15093d7f)
 
