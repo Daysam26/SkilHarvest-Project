@@ -52,15 +52,15 @@ The EDA involves in these Data Analysis are;
   
 ### Inference/Insight
 
-![Total revenue by region](https://github.com/user-attachments/assets/054ac617-bd70-4461-9e27-ddf0d7f75081)
+
 
 
 ### Recommendation
 During the analysis, the following actions are recommended;
 
-1.More focus need to be shifted to areas such as;
+1. More focus need to be shifted to areas such as;
  - Regions (South East,North west, North central)
  - Line of Business (Pinter, copier and parts sales)
    
-2.Investment and Promotion of manpower, various market strategies during off peak period, 2nd half (July- December) of the year to enhance output.
+2. Investment and Promotion of manpower, various market strategies during off peak period, 2nd half (July- December) of the year to enhance output.
 
