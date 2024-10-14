@@ -52,6 +52,9 @@ The EDA involves in these Data Analysis are;
   
 ### Inference/Insight
 
+![Total revenue by region](https://github.com/user-attachments/assets/054ac617-bd70-4461-9e27-ddf0d7f75081)
+
+
 ### Recommendation
 During the analysis, the following actions are recommended;
 
