@@ -23,6 +23,9 @@ The primary source of data used is from SkilHarvest Sale Inventory.
 ### Tools Used
 ---
 - Ms Excel
+  - Data Preparation
+  - Pivot
+  - Data Visualisation
  
 ### Data Cleaning and Preparation
 ---
