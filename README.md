@@ -14,7 +14,7 @@ My first project while learning Data Analysis with SkilHarvest Academy
 
 ### Project Overview
 ---
-This Data Analysis aim to summarize the revenue generated in some particular region in relation to unit sold on each services in order to categorize the sales under certain conditions such as LOW, MEDIUM, HIGH. Through analyzing sales record received and having the perception of region with Top Market Revenue and Unit Sold in some states market and state store and vise visa.
+This Data Analysis aims to summarize the revenue generated from a SkilHarvest sale inventory over a period of 2 years in some particular region. By analyzing the trend in parameters in the data gathered. We seek to categorize the sales under certain conditions such as LOW, MEDIUM, HIGH and to make a tenable insight and understanding of the sales performance.
 
 ### Data Sources 
 ---
