@@ -22,7 +22,7 @@ The primary source of data used is from SkilHarvest Sale Inventory.
 
 ### Tools Used
 ---
-- Ms Excel
+- Ms Excel [Download here](https://microsoft.com)
   - Data Preparation
   - Pivot
   - Data Visualisation
@@ -30,8 +30,8 @@ The primary source of data used is from SkilHarvest Sale Inventory.
 ### Data Cleaning and Preparation
 ---
 At first stage of data cleaning and preparation, the following were perform;
-1. Data Loading 
-2. Creation of another column to import LOW, MEDIUM, HIGH categories of Unit Sold.
+1. Data loading and inspection
+2. Import into missing column such as LOW, MEDIUM, HIGH categories of Unit Sold.
 3. Summarization of all Data into Pivot Table; This includes,
    - Creating table ranges in a pivot table
    - Total region by their revenue
@@ -50,18 +50,14 @@ The EDA involves in these Data Analysis are;
 - Report of revenue by month
 - Basic Visualization
   
-### Data Analysis
-- Line of code
-  ``` SQL
-  SELECT * FROM TABLE 1
-  WHERE CONDITION = TRUE
-  ```
-  
 ### Inference/Insight
 
-![Sum of unit sold buy month](https://github.com/user-attachments/assets/9ed5474d-b25b-4661-a4a5-fc027338b67b)
+### Recommendation
+During the analysis, the following actions are recommended;
 
+1.More focus need to be shifted to areas such as;
+ - Regions (South East,North west, North central)
+ - Line of Business (Pinter, copier and parts sales)
+   
+2.Investment and Promotion of manpower, various market strategies during off peak period, 2nd half (July- December) of the year to enhance output.
 
-![Average some revenue by 5top model](https://github.com/user-attachments/assets/b5d8833c-7bc3-4e31-8b28-217c15093d7f)
-
-![Totai revenue by region](https://github.com/user-attachments/assets/2b95a7b5-3080-4526-889e-4b366c70f338)
