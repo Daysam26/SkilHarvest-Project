@@ -95,8 +95,8 @@ The EDA involves in these Data Analysis are;
 During the analysis, the following actions are recommended;
 
 1. More focus need to be shifted to areas such as;
-  - Regions (South East,North west, North central)
-  - Line of Business (Pinter, copier and parts sales)
+ - Regions (South East,North west, North central)
+ - Line of Business (Pinter, copier and parts sales)
    
 2. Investment and Promotion of manpower, various market strategies during off peak period, 2nd half (July- December) of the year to enhance output.
 
