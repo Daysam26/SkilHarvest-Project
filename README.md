@@ -9,7 +9,6 @@ My first project while learning Data Analysis with SkilHarvest Academy
 ## [Tools Used](#tools-used)
 ## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
-## [Data Analysis](#data-analysis)
 ## [Inference or Insight](#inference-or-insight)
 
 ### Project Overview
@@ -23,8 +22,8 @@ The primary source of data used is from SkilHarvest Sale Inventory.
 ### Tools Used
 ---
 - Ms Excel [Download here](https://microsoft.com)
-  - Data Preparation
-  - Pivot
+  - Data loading and Preparation
+  - Pivoting
   - Data Visualisation
  
 ### Data Cleaning and Preparation
@@ -51,6 +50,8 @@ The EDA involves in these Data Analysis are;
 - Basic Visualization
   
 ### Inference/Insight
+![Total revenue by region](https://github.com/user-attachments/assets/34249ea1-ddda-4543-b6ac-1e6a8623b49e)
+- TOTAL REVENUE WITHIN A REGION; This shows the total revenue of each region and successful compression of 30,800 data into six region. It obvious from the analysis that sales of service is tremendously increasing in North East follow by South West. Unlike North Central which have a low turnout in term of revenue output.
 
 
 
